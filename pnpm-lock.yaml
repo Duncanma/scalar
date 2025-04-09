@@ -2068,6 +2068,9 @@ importers:
       '@scalar/openapi-parser':
         specifier: workspace:*
         version: link:../openapi-parser
+      '@scalar/openapi-types':
+        specifier: workspace:*
+        version: link:../openapi-types
       vue:
         specifier: 'catalog:'
         version: 3.5.12(typescript@5.6.2)
