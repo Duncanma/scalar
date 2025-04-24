@@ -1,5 +1,11 @@
 # @scalar/aspnetcore
 
+## 2.2.2
+
+### Patch Changes
+
+- b3f54ba: fix: make Pkce property nullable
+
 ## 2.2.1
 
 ### Patch Changes
