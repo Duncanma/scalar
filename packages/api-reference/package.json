@@ -86,16 +86,12 @@
     "github-slugger": "^2.0.0",
     "microdiff": "^1.4.0",
     "nanoid": "catalog:",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
     "vue": "catalog:",
     "zod": "catalog:"
   },
   "devDependencies": {
     "@scalar/build-tooling": "workspace:*",
     "@scalar/galaxy": "workspace:*",
-    "@types/react": "^19.0.1",
-    "@types/react-dom": "^19.0.2",
     "@vitejs/plugin-vue": "catalog:",
     "@vue/server-renderer": "^3.5.13",
     "@vue/test-utils": "^2.4.1",
